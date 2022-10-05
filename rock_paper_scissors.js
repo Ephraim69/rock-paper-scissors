@@ -41,7 +41,7 @@ function playRound(playerSelection, computerSelection) {
 	}
 	else
 	{
-		alert(`Haha very funny. "${playerSelection}".\nWhat the fuck is ${playerSelection}??! You must enter either "Rock", "Paper" or "Scissors" bozo`);
+		alert(`Haha very funny. "${playerSelection}".\nWhat is ${playerSelection}??! You must enter either "Rock", "Paper" or "Scissors" bozo`);
 		alert("Haha, jk. You can enter whatever you want :). Refresh the window and try again?")
 	}
 }
