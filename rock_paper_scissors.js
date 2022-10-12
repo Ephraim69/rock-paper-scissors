@@ -98,5 +98,4 @@ function game() {
 	console.log(`Player ${playerScore} - ${compScore} Computer`);
 }
 
-alert("Press Ctrl + Shift + i to open your browsers inspect mode and Click on \"Console\" to view the game results.");
-game()
+//game()
